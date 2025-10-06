@@ -1,22 +1,14 @@
 # 🌦 Project: Weather API
 
 ### Goal: Enable your user to enter a city + country and return the temperature in Fahrenheit
+This weather API web application lets a user enter a city (and optionally a country), fetches the current weather using the OpenWeatherMap API, converts the temperature from Kelvin to Fahrenheit, and displays it in the DOM. 
+<img width="641" height="241" alt="weatherApi" src="https://github.com/user-attachments/assets/b4440bfe-e524-4631-88bc-cb55af01068e" />
 
-### How to submit your code for review:
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+Tools used: HTML, CSS, JavaScript, OpenWeatherMap API
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+I learned how to access nested properties, format numbers for display (toFixed()).
+
+
+
+
